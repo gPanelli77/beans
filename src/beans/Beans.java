@@ -17,6 +17,8 @@ public class Beans {
     public static void main(String[] args) {
         
         System.out.println("can o' beans");
+        System.out.println("chock full o' beans");
+
     }
     
 }
